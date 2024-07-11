@@ -1,0 +1,4 @@
+[ 2024-07-11 08:41:07,676 ] filelock - DEBUG - Attempting to acquire lock 3135304853536 on C:\Users\Nazbeen-Ai\anaconda3\envs\envwh\lib\site-packages\urlextract\data\tlds-alpha-by-domain.txt.lock
+[ 2024-07-11 08:41:07,678 ] filelock - DEBUG - Lock 3135304853536 acquired on C:\Users\Nazbeen-Ai\anaconda3\envs\envwh\lib\site-packages\urlextract\data\tlds-alpha-by-domain.txt.lock
+[ 2024-07-11 08:41:07,739 ] filelock - DEBUG - Attempting to release lock 3135304853536 on C:\Users\Nazbeen-Ai\anaconda3\envs\envwh\lib\site-packages\urlextract\data\tlds-alpha-by-domain.txt.lock
+[ 2024-07-11 08:41:07,740 ] filelock - DEBUG - Lock 3135304853536 released on C:\Users\Nazbeen-Ai\anaconda3\envs\envwh\lib\site-packages\urlextract\data\tlds-alpha-by-domain.txt.lock

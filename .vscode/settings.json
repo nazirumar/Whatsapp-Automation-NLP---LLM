@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./whatsapp_nlp_llm/utils"
+    ]
+}

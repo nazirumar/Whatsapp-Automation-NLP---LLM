@@ -1,0 +1,6 @@
+ 'da', 'don', 'cikin', 'ko', 'ga', 'ya', 'kuma', 'ce', 'shi', 'ne', 'sai', 'su', 'wanda',
+    'wace', 'kuma', 'haka', 'kai', 'in', 'ka', 'yana', 'ta', 'na', 'ina', 'mun', 'mu', 'ma',
+    'lokacin', 'kallon', 'sosai', 'yayin', 'kowane', 'wannan', 'zaka', 'zaki', 'yin', 'koda',
+    'duk', 'dukda', 'ina', 'inna', 'kamar', 'kamata', 'kin', 'na', 'nan', 'nanata', 'ni',
+    'sai', 'suna', 'sunan', 'ta', 'tafi', 'wannan', 'ya', 'yi', 'za', 'zai', 'zama', 'zanci',
+    'zata', 'zato', 'zira', 'zuba', 'zuciya', 'zuwa', 'zuzu'

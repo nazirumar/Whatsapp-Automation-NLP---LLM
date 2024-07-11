@@ -1,0 +1,8 @@
+tensorflow
+nltk 
+keras 
+numpy
+pyautogui
+psutil
+pygetwindow
+from_root
